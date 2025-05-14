@@ -36,5 +36,4 @@ public class InputHandler {
         String userInput = SCANNER.nextLine();
         return "1".equals(userInput);
     }
-
 }
